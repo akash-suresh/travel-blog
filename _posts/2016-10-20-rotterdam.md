@@ -6,7 +6,7 @@ categories:
 tags:
   - Netherlands
   - Rotterdam
-image: images/rotterdam.jpg
+image: images/Large/resized/DSC_7440_resized.jpg
 ---
 
 # Rotterdam
