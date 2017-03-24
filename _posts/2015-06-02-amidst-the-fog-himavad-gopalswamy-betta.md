@@ -48,4 +48,5 @@ Although the scenery is amazing. We weren’t allowed to wander off into the mou
 ![alt]({{ site.url }}/images/2015-06-02-amidst-the-fog-himavad-gopalswamy-betta/DSC_6641-2.jpg)
 **Looking back**
 
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1000009.6717206636!2d76.08919172621779!3d11.744765141628031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba8b2af73eba2ed%3A0x81f20980e5a38872!2sHimavad+Gopalaswamy+Betta+Temple+Entrance%2C+Himavad+Gopalaswamy+Hills+Rd%2C+Sri+Hangala%2C+Karnataka+571126%2C+India!5e0!3m2!1sen!2sin!4v1490332659756" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
