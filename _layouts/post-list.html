@@ -17,9 +17,12 @@ layout: compress
 
     <div class="block-right">
       <a href="posts.html" title="posts" class="posts-menu-icon"></a>
-      <a href="{{site.url}}" title="projects" class="projects-menu-icon">
+      <span class="posts-link">Posts</span>
+      <a href="{{site.url}}" title="home" class="projects-menu-icon">
         <span></span>
       </a>
+      <span class="projects-link">Home</span>
+      
       <div class="content">
         <ul class="posts-list">
         {% for post in site.posts %}
