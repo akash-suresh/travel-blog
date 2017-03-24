@@ -12,7 +12,7 @@ import os, sys
 # In[11]:
 
 def resizeImage(infile, dir, output_dir="", size=(1500,1000)):
-     outfile = os.path.splitext(infile)[0]+"_resized"
+     outfile = os.path.splitext(infile)[0]
      extension = os.path.splitext(infile)[1]
 
      if extension.lower()!= ".jpg":
@@ -40,7 +40,7 @@ if __name__=="__main__":
         if args[0] == "-d":
             if args[1]!="./":
                 dir = args[1]
-    dir = 'Large/'
+    dir = 'Large'
     output_dir = dir+os.sep+"resized"
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
