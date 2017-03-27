@@ -30,5 +30,5 @@ layout: home
 
 # Akash Suresh
 ### Traveler. Photographer. Coder. 
-### Bangalorean. 
+### Hey, welcome to my blog. 
  
