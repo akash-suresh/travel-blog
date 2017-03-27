@@ -29,10 +29,13 @@ layout: compress
       <div class="share-buttons">
         {% include share.html %}
       </div>
-      <a href="../posts.html" title="posts" class="posts-menu-icon"></a>
-      <a title="projects" class="projects-menu-icon">
+      <a href="{{site.url}}" title="posts" class="posts-menu-icon"></a>
+      <span class="posts-link">Home</span>
+      <a href="{{site.url}}/about.html" title="home" class="projects-menu-icon">
         <span></span>
       </a>
+      <span class="projects-link">About Me!</span>
+      
       <div class="inner-post content">
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}
