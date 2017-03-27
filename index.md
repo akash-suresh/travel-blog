@@ -3,16 +3,14 @@ layout: home
 ---
 
 
-# About
-
 <html>
     <head>
         <style>
             .round {
                 border-radius: 50%;
                 overflow: hidden;
-                width: 220px;
-                height: 220px;
+                width: 200px;
+                height: 200px;
             }
             .round img {
                 display: block;
@@ -22,7 +20,7 @@ layout: home
         </style>
     </head>
     <body>
-        <div style="float:right;">
+        <div style="float:top;">
             <div class="round">
                 <img src="{{ site.url }}/images/me.jpg" />
             </div>
@@ -30,6 +28,7 @@ layout: home
     </body>
 </html>
 
-
-### Akash Suresh.
-### Bangalore.
+# Akash Suresh
+### Traveler. Photographer. Coder. 
+### Bangalorean. 
+ 
