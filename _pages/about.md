@@ -41,5 +41,25 @@ permalink: /about.html
  -->
 ---
 ### Hey, this is Akash Suresh. Welcome to my blog. This is where I share my travel experiences. 
+#### Contact details - akashzsuresh@gmail.com
 ---
-#### [Email](mailto:akashzsuresh@gmail.com) [Instagram](https://www.instagram.com/mydadpaysformytravels)
+<p>
+
+{% if site.twitter %}
+    <a href="https://twitter.com/{{ site.twitter }}">
+      <i class="fa fa-twitter"></i> Twitter  
+    </a>
+{% endif %}
+
+{% if site.github %}
+    <a href="https://github.com/{{ site.github }}">
+      <i class="fa fa-github"></i> GitHub  
+    </a>
+{% endif %}
+
+{% if site.instagram %}
+    <a href="https://www.instagram.com/{{ site.instagram }}">
+      <i class="fa fa-instagram"></i> Instagram
+    </a>
+{% endif %}
+</p>

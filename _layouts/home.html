@@ -18,7 +18,6 @@ layout: compress
           {{ site.description }}
         </h3-->
         <h4><b>AKASH SURESH</b></h4>
-      
       </div>
     </div>
     <canvas></canvas>
@@ -52,8 +51,27 @@ layout: compress
           </li>
           {% endfor %}
         </ul>
+      
+        <h1 align="left">
+          {% if site.github %}
+              <a href="https://github.com/{{ site.github }}">
+                <i class="fa fa-github"></i>   
+              </a>
+          {% endif %}
+
+          {% if site.instagram %}
+              <a href="https://www.instagram.com/{{ site.instagram }}">
+                <i class="fa fa-instagram"></i> 
+              </a>
+          {% endif %}
+        </h1>
+
       </div>
+
+      
     </div>
+
+
     
   {% include overlay.html %}
   {% include scripts.html %}
