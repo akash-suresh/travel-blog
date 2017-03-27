@@ -41,7 +41,7 @@ permalink: /about.html
  -->
 ---
 ### Hey, this is Akash Suresh. Welcome to my blog. This is where I share my travel experiences. 
-#### Contact details - akashzsuresh@gmail.com
+
 ---
 <p>
 
