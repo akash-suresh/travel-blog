@@ -6,7 +6,7 @@ categories:
 tags:
   - Colombo
   - Sri Lanka
-image: images/2015-07-09-the-land-of-the-ten-headed-warrior-lanka/DSC_7089.jpg
+image: images/2015-07-09-the-land-of-the-ten-headed-warrior-lanka/DSC_7089_2.jpg
 ---
 
 > To Isha, the person who made me fill the form!
