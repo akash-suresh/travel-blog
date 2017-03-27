@@ -16,8 +16,8 @@ permalink: /about.html
             .round {
                 border-radius: 5%;
                 overflow: hidden;
-                width: 400px;
-                height: 400px;
+                width: 380px;
+                height: 380px;
             }
             .round img {
                 display: block;
@@ -40,10 +40,9 @@ permalink: /about.html
 ### Hey, welcome to my blog. 
  -->
 ---
-### Hey, this is Akash Suresh. Welcome to my blog. This is where I share my travel experiences. 
-
+### Hi! Welcome to my blog. These are stories about the **journeys** that mattered.The **people** I met on them. And the **places** they led me to.
 ---
-<p>
+<p style="text-indent: 1em;">
 
 {% if site.twitter %}
     <a href="https://twitter.com/{{ site.twitter }}">
