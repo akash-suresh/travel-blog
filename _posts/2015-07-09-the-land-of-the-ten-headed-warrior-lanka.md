@@ -58,5 +58,3 @@ On the second day, we went out for a long walk towards the Pettah Floating marke
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 On the third day, we went on a road trip along the western coast of Lanka. Stay tuned for the next post.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4042003.9225181113!2d77.062341695318!3d8.375134141310921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae253d10f7a7003%3A0x320b2e4d32d3838d!2sColombo%2C+Sri+Lanka!5e0!3m2!1sen!2sin!4v1490350776394" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
