@@ -37,9 +37,23 @@ layout: compress
       <div class="inner-post content">
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}
-        <br>`
+        
+
+        <h4 align="left">
+          <a href="https://twitter.com/{{ site.twitter }}">
+            <i class="fa fa-twitter"></i> Twitter  
+          </a>
+          <a href="https://www.instagram.com/{{ site.instagram }}">
+             <i class="fa fa-instagram"></i> Instagram 
+          </a>
+          
+        </h4>
+
+        <br>
         {% include page-pagination.html %}
+        
       </div>
+
     </div>
     {% include scripts.html %}
     {% include overlay.html %}
