@@ -3,6 +3,7 @@ layout: post
 title: "Amidst the fog - Himavad Gopalswamy Betta"
 categories:
   -  India
+publish: true
 tags:
   - Mysore
   - Karnataka

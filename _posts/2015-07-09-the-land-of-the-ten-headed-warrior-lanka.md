@@ -3,6 +3,7 @@ layout: post
 title: "The land of the ten headed warrior - Lanka"
 categories:
   -  Sri Lanka
+publish: true
 tags:
   - Colombo
   - Sri Lanka

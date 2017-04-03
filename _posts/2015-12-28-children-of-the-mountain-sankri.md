@@ -3,6 +3,7 @@ layout: post
 title: "Children of the Mountain"
 categories:
   -  India
+publish: true
 tags:
   - Sankri
   - Uttarakhand

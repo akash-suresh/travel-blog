@@ -3,6 +3,7 @@ layout: post
 title: "title"
 categories:
   -  India
+publish: false
 tags:
   - Sankri
   - Uttarakhand

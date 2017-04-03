@@ -3,6 +3,7 @@ layout: post
 title: "When men sentenced god to death - Shettyhalli Church"
 categories:
   -  India
+publish: false
 tags:
   - Hassan
   - Karnataka

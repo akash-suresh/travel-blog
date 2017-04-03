@@ -42,6 +42,8 @@ permalink: /about.html
 ---
 ### Hi! Welcome to my blog. These are stories about the **journeys** that mattered.The **people** I met on them. And the **places** they led me to.
 ---
+<iframe src="//users.instush.com/collage/?cols=5&rows=5&sl=false&user_id=2269349167&username=mydadpaysformytravels&sid=-1&susername=-1&tag=-1&stype=mine&bg=transparent&space=false&rd=false&grd=false&gpd=0&drp=false&pin=false&t=999999ph6z6Yn7FN3cFh4HXRBFgN3KhH1vlkBr3__0LVFQLz2uhePo453Trm_RVek3VvJ9ydG0hYvZv8Y" allowtransparency="true" frameborder="0" scrolling="no"  style="display:block;width:380px;height:515px;border:none;overflow:visible;" ></iframe>
+
 <p style="text-indent: 1em;">
 
 {% if site.twitter %}
