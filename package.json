@@ -1,0 +1,36 @@
+{
+  "name": "my-dad-pays-for-my-travels",
+  "version": "2.0.0",
+  "description": "Personal Travel Blog",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-suresh/akash-suresh.github.io.git"
+  },
+  "author": "Akash Suresh",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.18.8",
+    "child_process": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-sass": "^3.1.0",
+    "imagemin-pngquant": "^5.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/akash-suresh/akash-suresh.github.io/issues"
+  },
+  "homepage": "https://github.com/akash-suresh/akash-suresh.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel",
+    "blog"
+  ]
+}

@@ -1,0 +1,13 @@
+Deprecate list -
+
+index.md
+robots.txt
+favicon.png
+favicon.ico
+_config2.yml
+assets/_sass
+
+
+Things to do - 
+
+Scale down akash-face.jpg

@@ -1,65 +1,46 @@
-# Site
 title: My Dad Pays For My Travels
-description: "The world is a book and those who don't travel read only a page"
-url: 
-logo: logo.png                                       # Site logo
-locale: en_UK
+email: akashzsuresh@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    My personal travel blog. A place, where I pen down my memories and pin down my photographs.
+permalink: ':title/'
+baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Left Block Images
-background:
-  homepage: images/home.jpg, images/posts-default.jpg                           # this image will be shown on homepage's left block
-  post-list: images/home.jpg             # this image will be shown on post list page
-  default-post: images/posts-default.jpg   # this image will be shown when post's front matter doesn't specify any image
+# Author settings
+author: Akash Suresh # add your name
+author-pic: akash-face.jpg
+about-author: My name is Akash Suresh. I’m a full-time adventure travel blogger and photographer who’s been exploring the world.
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-sass:
-  sass_dir:         assets/_sass
-  style:            compressed
+# Contact links
+email: # Add your Email address
+phone: # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: akash-suresh # Add your Github handle
+twitter: '@akashsuresh96' # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: mydadpaysformytravels # Add your Instagram handle
+pinterest: # Add your Pinterest handle
 
-# Google Analytics
-#google-analytics: UA-XXXXX-Y
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
 
-# Social Links
-email:             akashzsuresh@gmail.com
-#google.plus:        username
-twitter:            akashsuresh96
-facebook:           akashsureshsky
-github:             akash-suresh
-#stackoverflow:     123456/username   from a "https://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-instagram:          mydadpaysformytravels
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-behance:           username
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
 
-# Gems
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
 gems:
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-gist
 
-# Exclude list
 include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

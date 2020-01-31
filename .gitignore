@@ -1,6 +1,12 @@
+.sass_cache/
 _site/
+.jekyll-metadata
+node_modules/
+yarn.lock
+
 Gemfile
 Gemfile.lock
 images/_site/
 icons/
 images/Large/
+
